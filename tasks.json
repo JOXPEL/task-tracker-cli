@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "description": "buy a fridge",
+        "status": "todo",
+        "createdAt": "2026-05-29T19:34:32.070993",
+        "updatedAt": "2026-05-29T19:34:32.071032"
+    },
+    {
+        "id": 2,
+        "description": "buy a fridge",
+        "status": "in-progress",
+        "createdAt": "2026-05-29T19:37:37.250983",
+        "updatedAt": "2026-05-29T19:39:33.601605"
+    }
+]
