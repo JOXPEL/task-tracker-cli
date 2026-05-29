@@ -15,4 +15,4 @@ Make sure you have Python installed, then navigate to the project folder.
 | `py task_cli.py list` | List all tasks |
 | `py task_cli.py list done` | List by status |
 ## Project URL
-https://github.com/JOXPEL/task-tracker-cli
+[Task Tracker CLI](https://github.com/JOXPEL/task-tracker-cli)
